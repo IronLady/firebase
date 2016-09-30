@@ -1,5 +1,5 @@
 <?php
-namespace Firebase;
+namespace Ironlady\PhpFirebase;
 
 /**
  * Interface FirebaseInterface
