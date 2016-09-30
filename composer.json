@@ -1,7 +1,7 @@
 {
-  "name": "ironlady/firebase-php",
+  "name": "ironlady/firebase",
   "description": "Firebase PHP Client",
-  "homepage": "https://github.com/IronLady/firebase-php",
+  "homepage": "https://github.com/IronLady/firebase",
   "keywords": [
     "firebase",
     "REST",
