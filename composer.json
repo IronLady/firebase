@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-        "Ironlady\\PhpFirebase\\FirebaseLib\\": "src/"
+        "Ironlady\\Firebase\\FirebaseLib\\": "src/"
     }
   }
 }
