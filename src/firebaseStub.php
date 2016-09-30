@@ -1,5 +1,5 @@
 <?php
-namespace Firebase;
+namespace Ironlady\PhpFirebase;
 
 require_once __DIR__ . '/firebaseInterface.php';
 
